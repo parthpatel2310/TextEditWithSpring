@@ -49,9 +49,7 @@
      <form action="insertdata" method="post">
       <textarea id='edit' style="margin-top: 30px;" name="data" placeholder="Type some text">
         <h1>Textarea</h1>
-        <p>The editor can also be initialized on a textarea.</p>
       </textarea>
-
       <input type="submit">
     </form>
   </div>
